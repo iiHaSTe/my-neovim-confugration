@@ -1,17 +1,10 @@
 local servers = {
-	"sumneko_lua",
 	"cssls",
 	"html",
 	"tsserver",
 	"pyright",
-  "vimls",
-	"bashls",
 	"jsonls",
-	"yamlls",
-  "jdtls",
-  "kotlin_language_server",
-  "phpactor",
-  "tailwindcss"
+  "jsonnet_ls",
 }
 
 local settings = {

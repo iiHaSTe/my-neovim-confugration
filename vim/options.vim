@@ -17,6 +17,4 @@ set expandtab
 set termguicolors
 set background=dark
 
-let test = { "name": "hesham" }
-
-colorscheme moonfly
+colorscheme material-deep-ocean

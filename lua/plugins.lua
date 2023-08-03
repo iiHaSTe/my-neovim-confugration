@@ -3,6 +3,7 @@ vim.cmd [[packadd packer.nvim]]
 return require('packer').startup(function(use)
   use "ellisonleao/gruvbox.nvim"
   use "windwp/nvim-autopairs"
+  use 'marko-cerovac/material.nvim'
   use {
     'nvim-tree/nvim-tree.lua',
     requires = {
