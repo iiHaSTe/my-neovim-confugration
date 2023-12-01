@@ -8,3 +8,4 @@ require "lsp-config.init"
 local nvimrc = "~/.config/nvim/"
 vim.cmd("source " .. nvimrc .. "vim/options.vim")
 vim.cmd("source " .. nvimrc .. "vim/global.vim")
+

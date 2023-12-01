@@ -5,7 +5,8 @@ local plugins = {
   "telescope",
   "gruvbox",
   "cmp",
-  "gitsigns"
+  "gitsigns",
+  "autoclose"
 }
 
 for _, i in pairs(plugins) do

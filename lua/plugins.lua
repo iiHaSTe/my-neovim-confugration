@@ -4,6 +4,11 @@ return require('packer').startup(function(use)
   use "ellisonleao/gruvbox.nvim"
   use "windwp/nvim-autopairs"
   use 'marko-cerovac/material.nvim'
+  use 'leafo/moonscript-vim'
+  use 'tanvirtin/monokai.nvim' 
+  use "ziglang/zig.vim"
+  use "p00f/nvim-ts-rainbow"
+  use 'm4xshen/autoclose.nvim'
   use {
     'nvim-tree/nvim-tree.lua',
     requires = {

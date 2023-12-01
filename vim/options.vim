@@ -8,8 +8,8 @@ set relativenumber
 set nowrap
 
 " For tab size
-set tabstop=2
-set shiftwidth=2
+set tabstop=4
+set shiftwidth=4
 set shiftround
 set expandtab
 
@@ -17,4 +17,4 @@ set expandtab
 set termguicolors
 set background=dark
 
-colorscheme material-deep-ocean
+colorscheme vscode

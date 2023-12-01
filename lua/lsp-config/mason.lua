@@ -3,8 +3,12 @@ local servers = {
 	"html",
 	"tsserver",
 	"pyright",
+    "vimls",
 	"jsonls",
-  "jsonnet_ls",
+    "jdtls",
+    "zls",
+    "elixirls",
+    "asm_lsp"
 }
 
 local settings = {
